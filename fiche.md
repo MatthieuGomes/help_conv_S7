@@ -440,3 +440,37 @@ On choisi un controller PI
 
 #### 6.2. Cuk : hacheur à stockage capacitif
 
+![alt text](img/image-97.png)
+
+##### Schema
+
+![alt text](img/image-98.png)
+
+##### Mode de fonctionnement : continue ($U_c > 0$)
+
+![alt text](img/image-99.png)
+![alt text](img/image-100.png)
+
+###### Chronogrammes
+
+![alt text](img/image-101.png)
+
+###### Caractéristique de transfert
+
+![alt text](img/image-102.png)
+
+
+#### 6.3. SEPIC
+
+![alt text](img/image-103.png)
+
+##### Mode continu 
+
+###### Transfert de tension
+
+![alt text](img/image-104.png)
+
+###### Condensateur de couplage
+
+![alt text](img/image-105.png)
+
