@@ -5,3 +5,4 @@
 *.fbd_latexmk
 *.fls
 *.synctex.gz
+.vscode
